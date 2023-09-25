@@ -12,8 +12,8 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-
+    I still find it difficult to understand how accessing lists work. But I think this is just apart of the learning curve for being exposed to new language. 
 
 2. Explain how you could use the match function for extracting information from a movie database.
-
+    You could us the match function for extracting information from a movie database by connecting a UI with the movie database and allowing users to input the movie they wish to get information from. The match function would take that user input and match the input to movie database, if the input and the database match, the computer will return the information for that movie. 
 
